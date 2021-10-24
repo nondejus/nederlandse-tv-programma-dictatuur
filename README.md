@@ -1,5 +1,8 @@
 # nederlandse-tv-programma-dictatuur
 
+# media park
+https://en.wikipedia.org/wiki/Media_Park_(Hilversum)
+
 # dictatuur
 https://nl.wikipedia.org/wiki/Dictatuur
 
